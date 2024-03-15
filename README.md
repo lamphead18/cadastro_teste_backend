@@ -18,6 +18,17 @@ npm run dev
 
 ```
 
+Para instalar as dependências do projeto Frontend, siga os seguintes passos:
+
+```bash
+npm install
+npm install axios
+npm install react-router-dom
+npm install styled-components
+npm install --save @emailjs/browser
+
+```
+
 # Tecnologias Utilizadas:
 
 ## Frontend:
