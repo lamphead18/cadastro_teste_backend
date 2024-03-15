@@ -27,3 +27,5 @@ O servidor foi desenvolvido utilizando Node.js, proporcionando um ambiente de ex
 O acesso ao banco de dados PostgreSQL foi gerenciado utilizando Knex, fornecendo uma abstração poderosa para a manipulação do banco de dados.
 Utilizei o PgAdmin para administrar e visualizar o banco de dados PostgreSQL de forma intuitiva e eficiente.
 Para facilitar o envio de emails, utilizei a API EmailJS à aplicação.
+O sistema está funcional, o cadastro de usuário envia um email apenas para a minha conta por questões de segurança.
+Os dados do cadastro estão sendo enviados corretamente ao backend, todos os campos do banco de dados pedidos foram atendidos.
