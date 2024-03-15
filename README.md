@@ -11,7 +11,7 @@ npm install nodemon
 
 ```
 
-Para rodar o backend com nodemon, utilize:
+Para rodar o Backend com nodemon, utilize:
 
 ```bash
 npm run dev
@@ -26,6 +26,13 @@ npm install axios
 npm install react-router-dom
 npm install styled-components
 npm install --save @emailjs/browser
+
+```
+
+Para rodar o Frontend, utilize:
+
+```bash
+npm run dev
 
 ```
 
@@ -49,7 +56,3 @@ Knex
 PostgreSQL
 PgAdmin
 Métodos de Implementação
-
-## Licença:
-
-Este projeto está licenciado sob a MIT License.
